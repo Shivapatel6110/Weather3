@@ -1,0 +1,19 @@
+@media(max-width:400px) {
+    .start{
+        width: 100%;
+        margin-top: 0;
+        border-radius: 0;
+    }
+    .search input{
+        width: 80%;
+    };
+    button{
+        height: 40px;
+    }
+    .weather img{
+        margin-top: 100px;
+    }
+    .details{
+        margin-top: 100px;
+    }
+}
